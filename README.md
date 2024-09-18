@@ -1,12 +1,17 @@
 Maze Project Overview
 
+
 A basic 3D ray casting engine using SDL for rendering.
+
+
 Contributors
 •	KELVIN WANJOHI - https://x.com/KelvinNyw
 •	Lisette Murugi - https://x.com/LisetteNdwiga?t=gdmqvDr2c6UId09pcPVZCQ&s=08
 
 Project Goal
 The objective is to develop a 3D game using raycasting, aimed at enhancing children's spatial recognition and analytical skills.
+
+
 Player Controls
 •	Arrow Keys: Move player
 •	R: Refresh
