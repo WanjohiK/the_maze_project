@@ -1,8 +1,10 @@
 Maze Project Overview
+
 A basic 3D ray casting engine using SDL for rendering.
 Contributors
 •	KELVIN WANJOHI - Twitter
 •	Lisette Murugi - LinkedIn
+
 Project Goal
 The objective is to develop a 3D game using raycasting, aimed at enhancing children's spatial recognition and analytical skills.
 Player Controls
@@ -14,11 +16,13 @@ Player Controls
 •	]: Zoom in
 •	F: Switch between normal and panoramic views
 •	T: Change textures for walls and columns
+
 Technologies and Tools
 •	C programming language
 •	SDL2 (Simple Directmedia Layer)
 •	Raycasting
 •	Bash
+
 Compilation Instructions
 For Windows
 Navigate to the src folder and compile using:
